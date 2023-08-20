@@ -4,8 +4,8 @@ This is an official starter Turborepo.
 
 ## Micro frontends with SSR Example
 
-`apps/mfe1`: **Vite** based React Micro frontend
-`apps/web`: **Next JS** based host app
+- `apps/mfe1`: **Vite** based React Micro frontend
+- `apps/web`: **Next JS** based host app
 
 ### Steps
 
